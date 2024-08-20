@@ -1,0 +1,16 @@
+[
+  {
+    "ID": 1,
+    "Nombre": "Analisis de Sistemas",
+    "Sigla": "TSAS",
+    "Titulo": "Analista en sistemas",
+    "Duracion": 3
+  },
+  {
+    "ID": 2,
+    "Nombre": "Licenciatura en Administración",
+    "Sigla": "LA",
+    "Titulo": "Licenciado en Administración",
+    "Duracion": 4
+  }
+]
